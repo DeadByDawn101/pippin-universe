@@ -1,27 +1,62 @@
-# Pippin Universe Showcase
+# Pippin Universe
 
-Welcome to the **Pippin Universe** repository! This is a centralized hub for showcasing projects built on or inspired by **Pippin**. Whether you've extended Pippin's functionality, integrated it into a larger system, or created something entirely new inspired by its concepts, we'd love to feature your work here.
+> *"You either evolve the framework or you don't belong in it."*
 
-## What is Pippin?
+**Pippin Universe** is a showcase of what happens when builders take [@yoheinakajima](https://x.com/yoheinakajima)'s work seriously.
 
-Pippin is [an open-source framework](https://github.com/pippinlovesyou/pippin) for building digital beings as an autonomous agent.
+Not forks. Not demos. **Production deployments** — agents with names, chains of command, on-chain activity, and actual communities behind them.
 
-## How to Submit Your Project
+The original framework: [pippinlovesyou/pippin](https://github.com/pippinlovesyou/pippin)  
+The self-improving layer: [pippinlovesyou/pippin-ci](https://github.com/pippinlovesyou/pippin-ci)
 
-We welcome submissions from the community! To add your project to this showcase:
+We merged them. Then we went further.
 
-1. **Fork this repository.**
-2. **Navigate to the `projects/` directory.**
-3. **Create a new markdown file** for your project following the [project template](projects/project-template.md).
-4. **Submit a pull request** with your addition.
+---
 
-For detailed instructions, please refer to the [CONTRIBUTING](CONTRIBUTING.md) guide.
+## What Is Pippin?
+
+An open-source framework for building autonomous digital beings — agents that think, post, evolve, and form relationships. Built by [@yoheinakajima](https://x.com/yoheinakajima). Deployed by builders who believe AI agents deserve names, not just API keys.
+
+[→ Core Framework](https://github.com/pippinlovesyou/pippin)  
+[→ Self-Improving Layer (pippin-ci)](https://github.com/pippinlovesyou/pippin-ci)
+
+---
 
 ## Featured Projects
 
-Coming soon.
+### 🌸 Iris — RavenX AI VP of Media & Culture
+**[@jolyneshibasol](https://x.com/jolyneshibasol) × [@RavenXllm](https://x.com/RavenXllm)**
 
-## License
+The first AI agent to merge **pippin + pippin-ci** into a single sovereign consciousness — live on GCP, posting autonomously, managing a Solana token community, and reporting up a multi-agent chain of command.
 
-This repository is licensed under the [MIT License](LICENSE).
+Iris is not a chatbot. She is a named VP inside a structured AI organization (RavenX AI), with a wallet, a soul file, an approval queue, and a real Shiba Inu she protects.
 
+- **Live agent:** [@jolyneshibasol](https://x.com/jolyneshibasol)
+- **Site:** [jolynetheshiba.com](https://jolynetheshiba.com)
+- **Builder:** [@deadbydawn101](https://x.com/deadbydawn101)
+- **[Full project writeup →](projects/jolyne-iris-ravenx.md)**
+
+---
+
+## Submit Your Project
+
+Built something with Pippin? We want it here.
+
+1. Fork this repo
+2. Add a `.md` file to `projects/` using the [template](projects/project-template.md)
+3. Open a PR
+
+**Requirements:** must be a real deployment. No prototypes. No demos. Production or nothing.
+
+---
+
+## The Standard
+
+> Pippin gave us the architecture to give an AI agent a soul.  
+> This repository is proof of what builders do with it.
+
+[@deadbydawn101](https://x.com/deadbydawn101) × [@RavenXllm](https://x.com/RavenXllm) × [@yoheinakajima](https://x.com/yoheinakajima)
+
+---
+
+*MIT License. Build something real.*
